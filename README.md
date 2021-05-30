@@ -48,6 +48,8 @@
 * [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
 * [Breaking out with CSS Grid explained](https://www.rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/)
 * [Breaking Out With CSS Grid Layout](https://cloudfour.com/thinks/breaking-out-with-css-grid-layout) - Tyler Sticka explores a technique for allowing certain elements to fill the full viewport width from within a fixed-width container
+* [Case Study: My First Practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
+* 
 * [Breaking the Grid](http://daverupert.com/2017/09/breaking-the-grid/) - Two ways to break CSS Grid and how to fix it
 * [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/) - Morten Rand-Hendriksen guide us from 0 to building a Grid with CSS
@@ -72,6 +74,7 @@
 * [Edge starts work on their Grid implementation update](https://rachelandrew.co.uk/archives/2017/04/04/edge-starts-work-on-their-grid-implementation-update)
 * [Examine Grid Layouts with the CSS Grid Inspector (MDN)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
 * [Faux Grid Tracks](https://alistapart.com/article/faux-grid-tracks)
+* [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid/)
 * [Fun with CSS Grid: The Demo Site (MDN)](https://www.mozilla.org/en-US/developer/css-grid)
 * [Getting Started With CSS Grid (css-tricks.com)](https://css-tricks.com/getting-started-css-grid/)
 * [Getting to know CSS Grid Layout](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8ih4cvw8v)
@@ -137,7 +140,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSSGrid.io](https://cssgrid.io/) - Grid course by Wes Bos
 * [Grid by Example](http://gridbyexample.com/) - Grid examples by Rachel Andrew
 * [Grid Examples](http://www.gridexamples.com/)
-* [Intro to CSS Grid](http://labs.jensimmons.com/)
+* [THE EXPERIMENTAL LAYOUT LAB OF JEN SIMMONS](http://labs.jensimmons.com/)
 * [Isometric Card Grid](https://codepen.io/jkantner/pen/KQPdXK)
 * [Malerei, Fotografie, Film (pg. 126)](https://codepen.io/huijing/pen/PpqomV)
 * [Monopoly board](https://codepen.io/johnnycopes/pen/yzQyMp)
