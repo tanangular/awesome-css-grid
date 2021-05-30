@@ -20,7 +20,7 @@
 
 ## Documentation
 
-* [A complete guide to CSS Grid (css-tricks.com)](https://css-tricks.com/snippets/css/complete-guide-grid/) - A complete reference from CSS-Tricks
+* [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - A complete reference from CSS-Tricks
 * [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 * [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Official documentation on MDN
 * [CSS Grid Layout Module Level 1 Specification (W3C)](https://www.w3.org/TR/css-grid-1/)
@@ -28,6 +28,8 @@
 * [The complete guide to CSS Grid](https://tympanus.net/codrops/css_reference/grid/) - A guide to CSS Grid
 
 ## Articles
+* [The Complete CSS Grid Tutorial from jst hashnode](https://jst.hashnode.dev/css-grid-tutorial)
+* [The Complete CSS Grid Tutorial from semicolon](https://semicolon.dev/tutorial/css/complete-css-grid-tutorial)
 * [Learn CSS Grid](https://learncssgrid.com/)
 * [Using CSS Grid the right way](https://vgpena.github.io/using-css-grid-the-right-way/)
 * [11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
