@@ -128,6 +128,7 @@ Simmons)](http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layo
 * [CSS Grid Playground by Mozilla](https://mozilladevelopers.github.io/playground/)
 * [CSS Grid Template Builder](http://codepen.io/anthonydugois/full/RpYBmy) - A simple tool to build complex CSS Grid templates
 * [Griddy](http://griddy.io) - A nice tool to experiment with CSS Grid Layout
+* [CSS Layout Generator](https://layout.bradwoods.io/)
 
 ## Examples
 
